@@ -1,5 +1,5 @@
 ﻿    /************************************************************************************************************************************
-        Script for Adobe Illustrator CC to convert Illustrator files (.AI or .EPS) to .PDF. 
+        Forked version of Script for Adobe Illustrator CC to convert Illustrator files (.AI or .EPS) to .PDF. 
         I needed to get rid of hidden layers as well and resize the artboard so it matches my template.
 
     ************************************************************************************************************************************/
